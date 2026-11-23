@@ -1,11 +1,11 @@
 
-# 📁 The Java scripts are inside the `Java_OOP_Week10` folder.
+# The Java scripts are inside the `Java_OOP_Week10` folder.
 
 # Java OOP Week 10 Lab
 
 This repository contains my Java Object-Oriented Programming (OOP) lab assignment.
 
-## 📂 Folder Structure
+## Folder Structure
 
 All Java source codes are stored inside:
 
