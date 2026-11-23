@@ -14,7 +14,7 @@ All Java source codes are stored inside:
 ## Part A - Student Management
 
 <div align="left">
-  <img src="assets/Iwakura_lain.jpg" align="right" width="220">
+  <img src="assets/Iwakura_lain.jpg" align="right" width="180">
 
 This program manages student data using an `ArrayList`.
 
